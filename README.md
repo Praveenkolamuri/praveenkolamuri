@@ -36,38 +36,38 @@ I'm a cyber security student currently interning at Tech Wing as a Full-Stack De
 ### 📺 Latest Tasks
 
 <a href="https://www.linkedin.com/posts/sai-praveen-kolamuri-7b449822a_artificialintelligence-machinelearning-imageclassification-activity-7210909915995860993-PJ1e?utm_source=share&utm_medium=member_desktop">
-  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/98a986b9-1880-46d3-b6d8-da47fd1cc2b0" alt="LinkedIn Post 1" width="500" height="300"/>
+  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/98a986b9-1880-46d3-b6d8-da47fd1cc2b0" alt="LinkedIn Post 1" width="400" height="300"/>
 </a>
 <a href="https://www.linkedin.com/posts/sai-praveen-kolamuri-7b449822a_visualquestionanswering-vqa-machinelearning-activity-7211669594673938432-Bs_C?utm_source=share&utm_medium=member_desktop">
-  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/bb65aceb-71de-4f6c-b1e7-4eed18812085 " alt="LinkedIn Post 2" width="500" height="300"/>
+  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/bb65aceb-71de-4f6c-b1e7-4eed18812085 " alt="LinkedIn Post 2" width="400" height="300"/>
 </a>
 <a href="https://www.linkedin.com/posts/sai-praveen-kolamuri-7b449822a_handgesturerecognition-machinelearning-artificialintelligence-activity-7211626437252980739-KSqO?utm_source=share&utm_medium=member_desktop">
-  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/eae281b4-f623-42ea-b4b5-795e9ac86588  " alt="LinkedIn Post 3" width="500" height="300"/>
+  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/eae281b4-f623-42ea-b4b5-795e9ac86588  " alt="LinkedIn Post 3" width="400" height="300"/>
 </a>
 <a href="https://www.linkedin.com/posts/sai-praveen-kolamuri-7b449822a_textsummarization-machinelearning-artificialintelligence-activity-7211354268681871361-a3-Y?utm_source=share&utm_medium=member_desktop">
-  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/3852850f-df72-4460-af1a-cd29462f6d8a  " alt="LinkedIn Post 3" width="500" height="300"/>
+  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/3852850f-df72-4460-af1a-cd29462f6d8a  " alt="LinkedIn Post 3" width="400" height="300"/>
 </a>
 <a href="https://www.linkedin.com/posts/sai-praveen-kolamuri-7b449822a_ai-artificialintelligence-machinelearning-activity-7211290391378046976-1_5P?utm_source=share&utm_medium=member_desktop">
-  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/0dfb2d43-1011-473e-af06-1b9628c0980d   " alt="LinkedIn Post 3" width="500" height="300"/>
+  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/0dfb2d43-1011-473e-af06-1b9628c0980d   " alt="LinkedIn Post 3" width="400" height="300"/>
 </a>
 <a href="https://www.linkedin.com/posts/sai-praveen-kolamuri-7b449822a_artificialintelligence-machinelearning-humanposeestimation-activity-7210976781233709056-kuj1?utm_source=share&utm_medium=member_desktop">
-  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/e430f4c6-c0c9-49aa-a55c-e3610e37c213    " alt="LinkedIn Post 3" width="500" height="300"/>
+  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/e430f4c6-c0c9-49aa-a55c-e3610e37c213    " alt="LinkedIn Post 3" width="400" height="300"/>
 </a>
 <a href="https://www.linkedin.com/posts/sai-praveen-kolamuri-7b449822a_cybersecurity-learningjourney-tryhackme-activity-7209068956286894081-IsU5?utm_source=share&utm_medium=member_desktop">
-  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/39fe7053-6f86-466a-a5ef-0389ae6aa38c" alt="LinkedIn Post 3" width="500" height="300"/>
+  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/39fe7053-6f86-466a-a5ef-0389ae6aa38c" alt="LinkedIn Post 3" width="400" height="300"/>
 </a>
 <a href="https://www.linkedin.com/posts/sai-praveen-kolamuri-7b449822a_ai-machinelearning-huggingface-activity-7206952472131608576-9MUX?utm_source=share&utm_medium=member_desktop">
-  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/84e84c1b-c5bf-44cf-a03a-606c03e33957  " alt="LinkedIn Post 3" width="500" height="300"/>
+  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/84e84c1b-c5bf-44cf-a03a-606c03e33957  " alt="LinkedIn Post 3" width="400" height="300"/>
 </a>
 <a href="https://www.linkedin.com/posts/sai-praveen-kolamuri-7b449822a_datavisualization-powerbi-agriculture-activity-7204821706769649664-Vufb?utm_source=share&utm_medium=member_desktop">
-  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/a4f87b7b-c083-4f4b-9c10-1e423da717d2   " alt="LinkedIn Post 3" width="500" height="300"/>
+  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/a4f87b7b-c083-4f4b-9c10-1e423da717d2   " alt="LinkedIn Post 3" width="400" height="300"/>
 </a>
 </a>
 <a href="https://www.linkedin.com/posts/sai-praveen-kolamuri-7b449822a_ai-machinelearning-computervision-activity-7201175695098585088-JOGH?utm_source=share&utm_medium=member_desktop">
-  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/91f79858-6d59-4de0-86d9-97feb3c09bb8     " alt="LinkedIn Post 3" width="500" height="300"/>
+  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/91f79858-6d59-4de0-86d9-97feb3c09bb8     " alt="LinkedIn Post 3" width="400" height="300"/>
 </a>
 <a href="https://www.linkedin.com/posts/sai-praveen-kolamuri-7b449822a_ai-machinelearning-questionanswering-activity-7206966722367541249-pJni?utm_source=share&utm_medium=member_desktop">
-  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/d006899d-0931-4b7d-9e8d-d3f5f9881dc0  " alt="LinkedIn Post 3" width="500" height="300"/>
+  <img src="https://github.com/Praveenkolamuri/praveenkolamuri/assets/152489796/d006899d-0931-4b7d-9e8d-d3f5f9881dc0  " alt="LinkedIn Post 3" width="400" height="300"/>
 </a>
 #
 
